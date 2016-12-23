@@ -1,0 +1,8 @@
+{
+    "name": "lunanode/lunanode-api-php",
+    "autoload": {
+        "psr-4" : {
+            "LunaNode\\" : "src/LunaNode"
+        }
+    }
+}
